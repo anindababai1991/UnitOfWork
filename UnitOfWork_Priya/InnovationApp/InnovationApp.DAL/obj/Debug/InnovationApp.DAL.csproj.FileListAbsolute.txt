@@ -1,0 +1,10 @@
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\InnovationApp.DAL.dll.config
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\InnovationApp.DAL.dll
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\InnovationApp.DAL.pdb
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\EntityFramework.dll
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\EntityFramework.xml
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\obj\Debug\InnovationApp.DAL.csprojResolveAssemblyReference.cache
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\obj\Debug\InnovationApp.DAL.dll
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.DAL\obj\Debug\InnovationApp.DAL.pdb

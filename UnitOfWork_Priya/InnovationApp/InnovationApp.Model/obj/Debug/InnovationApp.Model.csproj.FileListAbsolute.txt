@@ -1,0 +1,4 @@
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.Model\bin\Debug\InnovationApp.Model.dll
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.Model\bin\Debug\InnovationApp.Model.pdb
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.Model\obj\Debug\InnovationApp.Model.dll
+c:\users\priya.bhadra\documents\visual studio 2015\Projects\InnovationApp\InnovationApp.Model\obj\Debug\InnovationApp.Model.pdb
